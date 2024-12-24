@@ -10,8 +10,8 @@ load_dotenv()
 api_key = os.getenv("gemini_api_key")
 
 model = generativeai.GenerativeModel("gemini-2.0-flash-thinking-exp")
-image = PIL.Image.open("thinking_test/math/junior_high/1.jpg")
-text = f"""This is a math question.
+image = PIL.Image.open("thinking_test/math/junior_high/25.jpg")
+prompt = f"""This is a math question.
             Try to read and solve the question in the image.
             Only return the answer.
             Think step by step.
@@ -22,6 +22,6 @@ text = f"""This is a math question.
                 using time: 10s
             """
 resp = model.generate_content(
-    [text,image]
+    [prompt,image]
 )
 print(resp.text)
