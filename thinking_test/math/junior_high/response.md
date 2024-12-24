@@ -1,6 +1,6 @@
 # 回覆統整
 ### 測試資料:113會考數學
-### [詳細記錄]("https://github.com/tingjunchen425/thinking_test/blob/main/thinking_test/math/junior_high/math_junior_high.xlsx")
+### [詳細記錄](https://github.com/tingjunchen425/thinking_test/blob/main/thinking_test/math/junior_high/math_junior_high.xlsx)
 
 1. The question asks for the value of the expression 3/7 - (-1/4).
     This is a subtraction problem involving two fractions.
