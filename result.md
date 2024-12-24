@@ -1,0 +1,1 @@
+# gemini-2.0-flash-thinking-exp測試
