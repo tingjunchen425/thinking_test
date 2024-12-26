@@ -7,7 +7,7 @@ import os
 dotenv.load_dotenv()
 api_key = os.getenv("gemini_api_key")
 model = generativeai.GenerativeModel("gemini-2.0-flash-thinking-exp")
-image = PIL.Image.open("thinking_test/english/img/1.jpg")
+image = PIL.Image.open("thinking_test/english/junior_high/img/1.jpg")
 prompt = f"""This is a English question.
             Try to read and solve the question in the image.
             Think step by step.
