@@ -1,5 +1,5 @@
 # 回覆統整
-### 測試資料:113會考數學
+### [測試資料:113會考數學](https://github.com/tingjunchen425/thinking_test/tree/main/thinking_test/math/junior_high/img)
 ### [詳細記錄](https://github.com/tingjunchen425/thinking_test/blob/main/thinking_test/math/junior_high/math_junior_high.xlsx)
 
 1. The question asks for the value of the expression 3/7 - (-1/4).
