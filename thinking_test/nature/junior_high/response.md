@@ -1,7 +1,7 @@
 # 回覆統整
-### [測試資料:113會考自然]()
-### [詳細記錄csv]()
-### [詳細記錄xlsx]()
+### [測試資料:113會考自然](https://github.com/tingjunchen425/thinking_test/tree/main/thinking_test/nature/junior_high/img)
+### [詳細記錄csv](https://github.com/tingjunchen425/thinking_test/blob/main/thinking_test/nature/junior_high/nature_junior_high.csv)
+### [詳細記錄xlsx](https://github.com/tingjunchen425/thinking_test/blob/main/thinking_test/nature/junior_high/nature_junior_high.xlsx)
 
 ### 1 
     Let's break down this physics question step-by-step.
